@@ -12,17 +12,17 @@ Before using the service you have to:
 3. Configure the access to the PRTG server API by HTTP/HTTPS.
 4. Manually init PrtgTelegramBot.exe.config:
 
-**DebugLogging**** - Enable (1) or Disable (0) debug log.
+**DebugLogging** - Enable (1) or Disable (0) debug log.
 
-**TelegramAccessToken**** - Telegram Access Token for your Telegram bot. 
+**TelegramAccessToken** - Telegram Access Token for your Telegram bot. 
 
-**PrtgServerApiAddress**** - IP address or the name (reccomended) of PRTG server API.
+**PrtgServerApiAddress** - IP address or the name (reccomended) of PRTG server API.
 
-**PrtgServerUsesHttp**** - Using HTTP (1) or HTTPS protocol to access to PRTG API.
+**PrtgServerUsesHttp** - Using HTTP (1) or HTTPS protocol to access to PRTG API.
 
-**PrtgServerApiUserName**** - PRTG server user using to access the PRTG server and getting the status of devices and sensors.
+**PrtgServerApiUserName** - PRTG server user using to access the PRTG server and getting the status of devices and sensors.
 
-**PrtgServerApiPasshash**** - PRTG server user Passhash
+**PrtgServerApiPasshash** - PRTG server user Passhash
 
 ## **Supported Telegram commands:**
 
